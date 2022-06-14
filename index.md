@@ -5,4 +5,4 @@
 ### Writings
 
 ### Miscs
-- [EECS](https://yanjingpo.github.io/EECS001/) - A simple study plan
+- [EECS-001](https://yanjingpo.github.io/EECS001/) - A simple study plan
