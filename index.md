@@ -1,4 +1,5 @@
 ### Short Bio
+Jingpo majored in Electronic Information Engineering at Chongqing College of Mobile Telecommunications. He is very interested in programming languages, compilers and formal methods.
 
 ### Projects
 
