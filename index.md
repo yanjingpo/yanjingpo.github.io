@@ -2,7 +2,7 @@
 Jingpo majored in Electronic Information Engineering at Chongqing College of Mobile Telecommunications. He is very interested in programming languages, compilers and formal methods.
 
 ### Projects
-- [Yemacs](https://github.com/yanjingpo/yemacs.git) - Yan's Emacs (Based on Fabrice Bellard's excellent qemacs)  
+- [yemacs](https://github.com/yanjingpo/yemacs.git) - Yan's Emacs (Based on Fabrice Bellard's excellent qemacs)  
 
 ### Writings
 
